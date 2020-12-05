@@ -1,3 +1,3 @@
 # magalyvillca
-# Magaly CArolina Villca Pacheco
+# Magaly Carolina Villca Pacheco
 # CI. 9969239 LP
